@@ -12,4 +12,6 @@ public class BankCustomerSowmya {
 	public String name;
     @Column
 	public double balance;
+@Column
+public double salary;
 }
